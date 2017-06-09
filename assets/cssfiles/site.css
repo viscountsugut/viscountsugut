@@ -1,0 +1,41 @@
+#header{
+
+background-color: #00afff;
+color: #ffffff;
+text-align: center;
+width: 100%;
+height: 50px;
+padding: 20px;
+border: 1px solid;
+}
+
+#first_section{
+background-color: #049298;
+color: #ffffff;
+text-align: center;
+width: 100%;
+height: 200px;
+padding: 20px;
+border: 1px solid;
+
+}
+#second_section{
+background-color: #049298;
+color: #ffffff;
+text-align: center;
+width: 100%;
+height: 200px;
+padding: 20px;
+border: 1px solid;
+
+}
+#footer{
+background-color: #049298;
+color: #ffffff;
+text-align: center;
+width: 100%;
+height: 30px;
+padding: 20px;
+border: 1px solid;
+
+}
