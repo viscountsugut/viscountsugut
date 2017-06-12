@@ -1,22 +1,30 @@
-#header{
+#nav{
 
-background-color: #00afff;
+background-color: #0080bb;
 color: #ffffff;
 text-align: center;
 width: 100%;
-height: 50px;
-padding: 20px;
+padding: 0px;
 border: 1px solid;
+}
+#header{
+background-color: #00afff;
+color: #ffffff;
+width: 100%;
+height: 80px;
+padding: 20px;
+border: 0px solid;
 }
 
 #first_section{
 background-color: #049298;
 color: #ffffff;
-text-align: center;
+text-align: left;
+vertical-align: top;
 width: 100%;
-height: 200px;
+/*height: 400px;*/
 padding: 20px;
-border: 1px solid;
+border: 0px;
 
 }
 #second_section{
@@ -48,8 +56,20 @@ border: 1px solid;
 	height:80px;
 }
 .logo{
+		border:1px solid;
+		width:20%;
+		height:30px;
+}
+.name{
+	border: 1px solid;
+	width: 60%;
+	height:30px;
 
-	size: 50%;
-	align-self: left;
+}
+.login
+{
+border: 1px solid;
+width: 20%;
+height: 30px;
 
 }
